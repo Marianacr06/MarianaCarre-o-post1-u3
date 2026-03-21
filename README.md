@@ -24,9 +24,6 @@ Tienda - Patrones Estructurales
 Se realizaron pruebas unitarias para validar el funcionamiento de los patrones.
 
 📸 Evidencia de los 4 Test
-![Adapter Test](img/Test.png)
+![Test](img/Test.png)
 📸 Evidencia Ejecucion
-![Composite Test](img/Ejecucion.png)
-
-
-
+![Ejecucion Test](img/Ejecucion.png)
